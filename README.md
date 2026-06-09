@@ -46,8 +46,8 @@ AI-powered career guidance platform.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (your linkedin link)
-- Email: your email
+- LinkedIn: https://www.linkedin.com/in/anshikaarya/
+- Email: anshikaarya042@gmail.com
 
 <!--
 **anshii2019/anshii2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
