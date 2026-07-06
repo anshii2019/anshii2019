@@ -13,7 +13,7 @@ Machine Learning, NLP, LLMs & GenAI.
 - 💻 Building AI/ML & GenAI Projects
 - 🤖 Interested in LLMs, RAG, NLP & AI Agents
 - 🌱 Currently learning Advanced GenAI & AI Systems
-- 🎯 Open to AI/ML Internship Opportunities
+- 🎯 Open to AI/ML Opportunities
 
 ---
 
